@@ -40,4 +40,4 @@
   | [**TechCode**](https://github.com/devasafe/techcode) | Sistema de OS em uso real | Next.js · MongoDB |
   | [**DROP**](https://github.com/devasafe/drop) | Marketplace com chat em tempo real | Next.js · Socket.io |
 
-  👉 Veja todos no **[portfólio →](https://devasafe.vercel.app)**
+  👉 Veja todos no **[portfólio →](https://satriz.club/asafe)**
