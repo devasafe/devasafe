@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-    <a href="https://devasafe.vercel.app">🌐 Portfólio</a> &nbsp;·&nbsp;
+    <a href="https://satriz.club/asafe">🌐 Portfólio</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/devasafemota/">💼 LinkedIn</a> &nbsp;·&nbsp;
     <a href="mailto:contatoasapdev@gmail.com">✉️ E-mail</a>
   </p>
